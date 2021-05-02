@@ -28,4 +28,4 @@ For the period from 11-2014 -> 11-2020
 
 ## Key Insights for Presentation
 
-> Just added some titles , labels and legends where appropriate.
+> There are trends that can be found from the data, but we also have to keep in mind the global pandemic which was not present in the data but we should also include it as a factor causing a spike in cancellations and diversions. This teaches us that we have to look further than the data and take into consideration external factors that affects the question we're trying to answer
